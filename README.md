@@ -459,10 +459,10 @@ Projet développé en équipe dans le cadre d'un projet académique à **PREPAS 
 
 | Membre | Module développé |
 |---|---|
-| **[Membre 1]** | Authentification, Menu principal, Système de profils |
-| **[Membre 2]** | Simulation de conduite (Chapitres 1 & 4) |
-| **[Membre 3]** | Test théorique QCM (10 chapitres, 200 questions) |
-| **[Membre 4]** | Guide des consignes |
+| **JOEL TCHINDA** | Authentification, Menu principal, Système de profils |
+| **FAREL NTSAMO** | Simulation de conduite (Chapitres 1 & 4) |
+| **DERRICK TCHOUATA** | Test théorique QCM (10 chapitres, 200 questions) |
+| **MAELYS ZE MBARGA** | Guide des consignes |
 
 *Intégration multi-modules, architecture fenêtre unique, navigation clavier — réalisées en post-développement.*
 
