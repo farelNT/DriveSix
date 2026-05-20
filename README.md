@@ -455,7 +455,7 @@ Dossier créé automatiquement. Quand un utilisateur sélectionne une photo de p
 
 ## 👥 Équipe
 
-Projet développé en équipe dans le cadre d'un projet académique à **ISEN Ouest Nantes (Carquefou)**.
+Projet développé en équipe dans le cadre d'un projet académique à **PREPAS INTERNATIONALES (YAOUNDE)**.
 
 | Membre | Module développé |
 |---|---|
